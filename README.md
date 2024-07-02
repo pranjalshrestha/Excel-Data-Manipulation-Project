@@ -2,7 +2,7 @@
 
 ## Task Overview
 ### Task 1: Temperature Data Analysis
-- **Data**: temps.csv
+- **Data**: Task1.csv
 - **Actions**: Transpose data, calculate weighted averages, save as .xlsx.
 
 ### Task 2: Employee Data Analysis
