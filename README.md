@@ -2,7 +2,7 @@
 
 ## Task Overview
 ### Task 1: Temperature Data Analysis
-- **Data**: Task1.csv
+- **Data**: Task1.xlsx
 - **Actions**: Transpose data, calculate weighted averages, save as .xlsx.
 
 ### Task 2: Employee Data Analysis
@@ -19,7 +19,7 @@
   - Employees with Quality < 0.25: 11625.
 
 ### Task 3: Movie Data Analysis
-- **Data**: titles.csv
+- **Data**: movies.xlsx
 - **Actions**: Create pivot table, analyze age certifications.
 - **Results**:
   - TV-14 titles: 493.
